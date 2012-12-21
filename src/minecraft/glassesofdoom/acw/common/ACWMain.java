@@ -1,5 +1,5 @@
 package glassesofdoom.acw.common;
 
-public class ACWCommon {
+public class ACWMain {
 
 }
